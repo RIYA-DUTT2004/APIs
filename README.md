@@ -97,6 +97,7 @@ npm run dev
 🌐 Building REST APIs using Express.js  
 
 ---
+Deployment Platform: Render
 
 ## 👩‍💻 Author
 **Riya Dutta** ✨
