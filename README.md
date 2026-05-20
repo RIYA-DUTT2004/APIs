@@ -54,7 +54,7 @@ src/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/RIYA-DUTT2004/APIs.git
 ```
 
 ### 2️⃣ Install dependencies
